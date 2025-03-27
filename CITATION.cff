@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Jesus '
+    family-names: Zamora Cervantes
+    email: l21212185@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/JesusZamora14/Gemelos-Digitales-Algoritmos-de-Regresi-n-
+abstract: |-
+  Tecnológico Nacional de México
+  Instituto Tecnológico de Tijuana
+  Ingeniería Biomédica
+  Gemelos Digitales
+  Práctica 3 Algoritmos de regresión no lineal
+keywords:
+  - Lógistico
+  - Regresión
+  - Alometría
+  - Gompertz
+license: BSD-2-Clause
