@@ -1,5 +1,7 @@
 # Gemelos-Digitales-Algoritmos de Regresión no lineal Zamora21212185
-Práctica Algoritmos de regresión no lineal
+Práctica 3 Algoritmos de regresión no lineal
+
+
 
 ## Autor
 Jesus Zamora Cervantes
